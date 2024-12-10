@@ -1,0 +1,5 @@
+Message : ecretaire:doctor we have too many patient today !!
+Message : alut docteur
+Message : k
+ message du patient  : octeur je veux changer mon rendez vouis !!
+

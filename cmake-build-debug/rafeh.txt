@@ -1,0 +1,8 @@
+ID: 123456789
+Nom: rafeh
+Age: 21
+Sexe: Femme
+Adresse: benzart
+Telephone: 0053789518
+Email:rafehayari@gmail.com
+----------------------------------------

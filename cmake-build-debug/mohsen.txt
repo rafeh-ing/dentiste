@@ -1,0 +1,14 @@
+ID: 123698547
+Nom: mohsen
+Age: 65
+Sexe: Homme
+Adresse: gabes
+Telephone: 0025896314
+Email:mohsen@gmail.com
+----------------------------------------
+[1;34m
+Traitement : detraghjeksudjdbkdhsd[0m
+[1;34mHistorique : pmloikjuhytgdygevsjd[0m
+[1;34mOpération effectuée : 15 (Prix : 65.00 TND)[0m
+[1;36m----------------------------------------[0m
+Médicament associé : tramadol

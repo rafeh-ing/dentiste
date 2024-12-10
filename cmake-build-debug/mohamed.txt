@@ -1,0 +1,8 @@
+ID: 987654321
+Nom: mohamed
+Age: 45
+Sexe: Homme
+Adresse: manouba
+Telephone: 0098563214
+Email:mohamed@gmail.com
+----------------------------------------
